@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @niniizinhaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-niniizinhaa/niniizinhaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+oi, meu nome é Nicoli 
+quero fazer Gastronomia é Advocacia
+tenho 15 anos faço aniversario dia 10/01
+em um relacionamento serio com @alysonbiavatti
+quero fazer curso de  desginer 
